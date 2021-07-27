@@ -8,3 +8,4 @@ Git has a multble index called satage.
 Git tracks changes.
 My stupid boss still prefers SVN.
 Wo Zhong Yu Cheng Gong Le!
+Hao Xiang Hai You Yi Dian Wen Ti~
